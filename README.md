@@ -1,4 +1,4 @@
-- # 👋 Hi, I’m @RishiLagad
+- # 👋 Hi, I’m @Rushikesh_Lagad
 
 👀 I’m interested in bioinformatics, computational biology, and the integration of multi-omics data to enhance our understanding of complex diseases like cancer.
 
